@@ -21,3 +21,27 @@ storiesOf('Button', module)
 
   storiesOf('App', module).add('default', () => <App />);
 
+  // added cme
+
+  storiesOf("Pages/Welcome", module)
+  .addDecorator(withKnobs)
+  .add("Welcome", () => (
+   <Welcome>
+    <Table
+     items={[
+      { id: 1, name: "foo", description: "bar" },
+      { id: 2, name: "baz", description: "foobar" }
+     ]}
+    />
+   </Welcome>
+  )); 
+
+  storiesOf('BarChart', module)
+  .addDecorator(getStory => <ShowcaseCard>{ getStory() }</ShowcaseCard>)
+  .add('With Multiple data set', () => <MultipleBarChart/>)
+  .add('With Gradient', () => <BarChartWithGradient/>)
+  .add('With Different Bars', () => <BarChartWithDifferentBars/>)
+  .add('Horizontal', () => <BarChartHorizontal/>)
+  .add('Horizontal with YAxis', () => <BarChartHorizontalWithYAxis/>)
+  .add('Horizontal with Labels', () => <BarChartHorizontalWithLabels/>)
+  .add('Vertical with Labels', () => <BarChartVerticalWithLabels/>)
