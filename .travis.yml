@@ -3,6 +3,7 @@ node_js: '8'
 
 before_script:
 - npm install
+- export APPLITOOLS_BATCH_ID=${TRAVIS_PULL_REQUEST_SHA:=$TRAVIS_COMMIT}
 
-before_script:
-  - export APPLITOOLS_BATCH_ID=${TRAVIS_PULL_REQUEST_SHA:=$TRAVIS_COMMIT}
+script:
+- npx eyes-storybook
