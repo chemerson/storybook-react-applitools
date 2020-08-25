@@ -1,0 +1,8 @@
+language: 'node_js'
+node_js: '8'
+
+before_script:
+- npm install
+
+before_script:
+  - export APPLITOOLS_BATCH_ID=${TRAVIS_PULL_REQUEST_SHA:=$TRAVIS_COMMIT}
