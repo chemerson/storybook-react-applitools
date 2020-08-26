@@ -20,7 +20,7 @@ storiesOf('Button', module)
   ));
 
   storiesOf('Button 2', module)
-  .add('with text', () => <Button onClick={action('clicked')}>Hello Button 2!</Button>)
+  .add('with text', () => <Button onClick={action('clicked')}>Hello Button 2B!</Button>)
   .add('with some emoji', () => (
     <Button onClick={action('clicked')}>
       <span role="img" aria-label="so cool">
