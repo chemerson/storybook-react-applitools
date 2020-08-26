@@ -20,7 +20,7 @@ storiesOf('Button', module)
   ));
 
   storiesOf('Button 2', module)
-  .add('with text', () => <Button onClick={action('clicked')}>Hello Button!</Button>)
+  .add('with text', () => <Button onClick={action('clicked')}>Hello Button 2!</Button>)
   .add('with some emoji', () => (
     <Button onClick={action('clicked')}>
       <span role="img" aria-label="so cool">
@@ -31,29 +31,4 @@ storiesOf('Button', module)
 
   storiesOf('App', module).add('default', () => <App />);
 
-  // added cme
-  storiesOf("Button", module)
-  .addDecorator(withKnobs)
-  .add("Welcome", () => (
-   <Welcome>
-    <Table
-     items={[
-      { id: 1, name: "foo", description: "bar" },
-      { id: 2, name: "baz", description: "foobar" }
-     ]}
-    />
-   </Welcome>
-  )); 
 
-  storiesOf("Button 2", module)
-  .addDecorator(withKnobs)
-  .add("Welcome", () => (
-   <Welcome>
-    <Table
-     items={[
-      { id: 1, name: "foo", description: "bar" },
-      { id: 2, name: "baz", description: "foobar" }
-     ]}
-    />
-   </Welcome>
-  )); 
