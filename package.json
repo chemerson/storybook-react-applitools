@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.4"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,7 +14,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
-    "applitools" : "npx eyes-storybook"
+    "applitools": "npx eyes-storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -26,11 +26,11 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@applitools/eyes-storybook": "^2.7.31",
-    "@storybook/addon-actions": "^5.1.11",
-    "@storybook/addon-links": "^5.1.11",
-    "@storybook/addons": "^5.1.11",
-    "@storybook/react": "^5.1.11",
+    "@applitools/eyes-storybook": "^3.8.8",
+    "@storybook/addon-actions": "^6.0.19",
+    "@storybook/addon-links": "^6.0.19",
+    "@storybook/addons": "^6.0.19",
+    "@storybook/react": "^6.0.19",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0"
   }
