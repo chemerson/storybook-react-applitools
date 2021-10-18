@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="Eyes Test Suite" tests="162" time="42444">
+<testcase name="App: default" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="11">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="11">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="12">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="12">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="10">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="App: default" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="10">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with some emoji" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="10">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button 2: with text" time="9">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with some emoji" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="8">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Button: with text" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="7">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Firefox 93.0"/>
+<property name="viewportSize" value="400x400"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="17">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="6">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="16">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="19">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="18">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="5">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="1024x768"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="4">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="800x600"/>
+</properties>
+</testcase>
+<testcase name="Welcome: to Storybook" time="18">
+<properties>
+<property name="hostOS" value="Linux"/>
+<property name="hostApp" value="Chrome 94.0"/>
+<property name="viewportSize" value="100x100"/>
+</properties>
+</testcase>
+</testsuite>
